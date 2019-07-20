@@ -11,10 +11,8 @@ sudo apt --assume-yes install flameshot
 sudo apt --assume-yes install remmina
 sudo apt --assume-yes install git
 sudo apt --assume-yes install pip3
-sudo apt --assume-yes install neovim
 sudo apt --assume-yes install redshift-gtk
 sudo apt --assume-yes install steam
 
 sudo snap install pycharm-community
 sudo snap install telegram-desktop
-
