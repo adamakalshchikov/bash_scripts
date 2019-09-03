@@ -1,0 +1,9 @@
+итого 28
+-rwxrwxr-x 1 alex alex 115 июл 14 12:25 env
+-rwxrwxr-x 1 alex alex 100 июл 14 16:49 FileExist
+-rw-rw-r-- 1 alex alex   0 июл 14 20:55 filelist.txt
+-rwxrwxr-x 1 alex alex  46 июл 14 00:38 HelloWorld2.sh
+-rwxrwxr-x 1 alex alex 103 июл 14 00:38 HelloWorld.sh
+-rwxrwxr-x 1 alex alex 125 июл 14 16:28 IFSTATMENT
+-rwxrwxr-x 1 alex alex 315 июл 14 20:49 updateScript
+-rwxrwxr-x 1 alex alex  21 июл 14 00:48 WatchDisk.sh

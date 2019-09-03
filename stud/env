@@ -1,0 +1,5 @@
+#!/bin/bash
+
+readonly sourceFile="/home/alex/Projects/venvs_python3/selenium_env/bin/activate"
+
+source $sourceFile

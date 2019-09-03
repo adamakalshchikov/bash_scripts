@@ -1,0 +1,13 @@
+#!/bin/bash
+
+grep -q close /proc/acpi/button/lid/LID/state
+if [ $? = 0 ]
+then
+	## The laptop lid is closed, Let`s find out if it`s plugged in.
+	greq -q 0 /sys/class/power_suply/AC0/online
+	if [$? = 0 ]
+	then
+		## The laptop is not plugged in. It should be asleep
+		pm-suspend
+	fi
+fi
